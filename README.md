@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://samuel-oliveira.com">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuoliveira13&show_icons=true&theme=dracula&include_all_commits=flase&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuoliveira13&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuoliveira13&layout=compact&langs_count=4&theme=dracula"/>
 </div>
 
