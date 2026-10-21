@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 # About Me:
-🔭 I’m currently focused on front-end development<br>🌱 I’m currently learning Informatics and Computing Engineering
+🔭 I’m a Software Engineer<br>🌱 I’m currently enrolled in the Master's in Software Engineet
 
